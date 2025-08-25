@@ -2,6 +2,6 @@
 <br>
 <p>Hi!</p>
 <p>This is my first Git repositery</p>
-<p>ok fine thanks</p>
+<p>ok fine</p>
 <br>
 <br>
